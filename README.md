@@ -7,7 +7,7 @@
 
 ## Technology
 
-[![My Skills](https://skillicons.dev/icons?i=py,pycharm,pytorch,django,fastapi,docker,c,redis,aws,blender,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,pycharm,pytorch,django,fastapi,docker,redis,aws,blender)](https://skillicons.dev)
 
 ## Estatísticas
 
