@@ -1,8 +1,11 @@
 ## Hello, my name is Diego Renato. 👋
 
 🎓 Graduating in Computer Science
+
 🚀 Studying Python, Data Science and AI 
+
 🔭 Interested in Astrophysics
+
 🖨️ Working with 3D printing
 
 ## Technology
@@ -17,11 +20,15 @@
 
 ---
 
-## Projetos
+## Commits
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=drenato-v&theme=tokyonight)]()
+
+---
+
+## Projects
 
 - Chatbot integrated with AI and WhatsApp
 - Analysis of gas emissions
 - integrated management software
 - Binary search
 - Deterministic finite automaton
-
