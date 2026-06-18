@@ -1,7 +1,7 @@
-## Hi there, I am Diego Renato 👋
+## Hello, my name is Diego Renato. 👋
 
 🎓 Graduating in Computer Science
-🚀 Studying Python and AI 
+🚀 Studying Python, Data Science and AI 
 🔭 Interested in Astrophysics
 🖨️ Working with 3D printing
 
@@ -11,9 +11,9 @@
 
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drenato-v&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drenato-v&layout=compact&theme=tokyonight)
 
 ---
 
@@ -21,4 +21,7 @@
 
 - Chatbot integrated with AI and WhatsApp
 - Analysis of gas emissions
+- integrated management software
 - Binary search
+- Deterministic finite automaton
+
