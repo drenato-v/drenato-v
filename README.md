@@ -12,12 +12,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,pycharm,pytorch,django,fastapi,docker,redis,aws,blender)](https://skillicons.dev)
 
-## Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drenato-v&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drenato-v&layout=compact&theme=tokyonight)
-
 ---
 
 ## Commits
