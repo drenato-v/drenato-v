@@ -103,14 +103,13 @@ class DiegoRenato:
 ## Let's connect
 
 <div align="center">
-
-| | |
-|:--|
-**Email:** [dev.drenato@gmail.com](mailto:dev.drenato@gmail.com) |
-**LinkedIn:** [Diego Renato](https://www.linkedin.com/in/diego-renato-513a50254) |
-**WhatsApp:** [+55 (17) 99717-0139](https://wa.me/5517997170139) |
-**Instagram:** [@axion.brazil](https://www.instagram.com/axion.brazil) |
-**Website:** [axion-brasil.com](https://axion-brasil.com) |
+| Contato | |
+|:--|:--|
+| **Email** | [dev.drenato@gmail.com](mailto:dev.drenato@gmail.com) |
+| **LinkedIn** | [Diego Renato](https://www.linkedin.com/in/diego-renato-513a50254) |
+| **WhatsApp** | [+55 (17) 99717-0139](https://wa.me/5517997170139) |
+| **Instagram** | [@axion.brazil](https://www.instagram.com/axion.brazil) |
+| **Website** | [axion-brasil.com](https://axion-brasil.com) |
 
 </div>
 
