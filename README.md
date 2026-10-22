@@ -104,7 +104,7 @@ class DiegoRenato:
 
 <div align="center">
 
-| Contato | |
+| Contato | Valores |
 |:--|:--|
 | **Email** | [dev.drenato@gmail.com](mailto:dev.drenato@gmail.com) |
 | **LinkedIn** | [Diego Renato](https://www.linkedin.com/in/diego-renato-513a50254) |
