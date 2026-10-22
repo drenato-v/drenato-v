@@ -90,10 +90,10 @@ class DiegoRenato:
 
 <div align="center">
 
-<a href="https://github.com/drenato-v/simulador-orbital"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=Pesquisa-Binaria&theme=tokyonight&hide_border=true" alt="Binary search" /></a>
+<a href="https://github.com/drenato-v/simulador-orbital"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=simulador-orbital&theme=tokyonight&hide_border=true" alt="Orbital simulator" /></a>
 <a href="https://github.com/drenato-v/Analise-de-Emissoes-de-Gases-no-Brasil"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=Analise-de-Emissoes-de-Gases-no-Brasil&theme=tokyonight&hide_border=true" alt="Analysis of gas emissions" /></a>
 <a href="https://github.com/drenato-v/Automato-Finito-Deterministico"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=Automato-Finito-Deterministico&theme=tokyonight&hide_border=true" alt="Deterministic finite automaton" /></a>
-<a href="https://github.com/drenato-v/algoritmo-de-ordenacao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=Gerador-senha&theme=tokyonight&hide_border=true" alt="Password generator" /></a>
+<a href="https://github.com/drenato-v/algoritmo-de-ordenacao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=algoritmo-de-ordenacao&theme=tokyonight&hide_border=true" alt="Sorting algorithms" /></a>
 
 </div>
 
