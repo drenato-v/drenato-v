@@ -19,7 +19,7 @@
 <br/>
 
 <a href="mailto:dev.drenato@gmail.com"><img src="https://img.shields.io/badge/Email-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/diego-renato"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/diego-renato-513a50254"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/axion.brazil"><img src="https://img.shields.io/badge/Instagram-bb9af7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://axion-brasil.com"><img src="https://img.shields.io/badge/Axion%20Brasil-e0af68?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 
@@ -82,16 +82,6 @@ class DiegoRenato:
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=drenato-v&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drenato-v/drenato-v/output/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drenato-v/drenato-v/output/profile-season-animate.svg" />
-  <img src="https://raw.githubusercontent.com/drenato-v/drenato-v/output/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
-</picture>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=drenato-v&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph" />
-
 </div>
 
 <br/>
@@ -127,7 +117,7 @@ class DiegoRenato:
 | | |
 |:-:|:--|
 | ✉️ | **Email:** [dev.drenato@gmail.com](mailto:dev.drenato@gmail.com) |
-| 💼 | **LinkedIn:** [in/diego-renato](https://www.linkedin.com/in/diego-renato) |
+| 💼 | **LinkedIn:** [Diego Renato](https://www.linkedin.com/in/diego-renato-513a50254) |
 | 📸 | **Instagram:** [@axion.brazil](https://www.instagram.com/axion.brazil) |
 | 🌐 | **Website:** [axion-brasil.com](https://axion-brasil.com) |
 

@@ -1,4 +1,4 @@
-# Gera as imagens automáticas do perfil (cobrinha e gráfico 3D de contribuições)
+# Gera a animação da cobrinha comendo o gráfico de contribuições
 # e publica tudo na branch "output". Assim a branch main não recebe commits automáticos.
 name: Generate profile graphics
 
@@ -15,7 +15,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
       - name: Generate snake animation
@@ -25,15 +25,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#7aa2f7
-
-      - name: Generate 3D contribution graph
-        uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      - name: Collect 3D graphs
-        run: cp profile-3d-contrib/*.svg dist/
 
       # Substitui a branch "output" por um único commit, sem acumular histórico
       - name: Publish to the output branch
