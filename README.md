@@ -103,6 +103,7 @@ class DiegoRenato:
 ## Let's connect
 
 <div align="center">
+
 | Contato | |
 |:--|:--|
 | **Email** | [dev.drenato@gmail.com](mailto:dev.drenato@gmail.com) |
