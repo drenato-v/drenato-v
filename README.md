@@ -20,6 +20,7 @@
 
 <a href="mailto:dev.drenato@gmail.com"><img src="https://img.shields.io/badge/Email-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/diego-renato-513a50254"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://wa.me/5517997170139"><img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 <a href="https://www.instagram.com/axion.brazil"><img src="https://img.shields.io/badge/Instagram-bb9af7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://axion-brasil.com"><img src="https://img.shields.io/badge/Axion%20Brasil-e0af68?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 
@@ -107,6 +108,7 @@ class DiegoRenato:
 |:-:|:--|
 | ✉️ | **Email:** [dev.drenato@gmail.com](mailto:dev.drenato@gmail.com) |
 | 💼 | **LinkedIn:** [Diego Renato](https://www.linkedin.com/in/diego-renato-513a50254) |
+| 📱 | **WhatsApp:** [+55 (17) 99717-0139](https://wa.me/5517997170139) |
 | 📸 | **Instagram:** [@axion.brazil](https://www.instagram.com/axion.brazil) |
 | 🌐 | **Website:** [axion-brasil.com](https://axion-brasil.com) |
 
