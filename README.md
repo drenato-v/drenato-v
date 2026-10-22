@@ -27,7 +27,7 @@
 
 <br/>
 
-## 🧑‍🚀 About me
+## About me
 
 ```python
 class DiegoRenato:
@@ -43,7 +43,7 @@ class DiegoRenato:
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -71,7 +71,7 @@ class DiegoRenato:
 
 <br/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -86,7 +86,7 @@ class DiegoRenato:
 
 <br/>
 
-## 🚀 Projects
+## Projects
 
 <div align="center">
 
@@ -110,7 +110,7 @@ class DiegoRenato:
 
 <br/>
 
-## 📫 Let's connect
+## Let's connect
 
 <div align="center">
 
