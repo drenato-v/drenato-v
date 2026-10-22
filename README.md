@@ -1,61 +1,111 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Diego%20Renato&fontSize=50&fontColor=c0caf5&fontAlignY=35&animation=fadeIn&desc=Computer%20Science%20%E2%80%A2%20Python%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20AI&descSize=18&descAlignY=55" alt="Banner" />
+<img src="./assets/header.svg" width="100%" alt="Diego Renato — Computer Science Student · Python · Data Science · AI" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hello%2C+my+name+is+Diego+Renato+%F0%9F%91%8B;Computer+Science+student;Python+%E2%80%A2+Data+Science+%E2%80%A2+AI" alt="Typing SVG" />
+<a href="https://github.com/drenato-v">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=%F0%9F%8E%93+Computer+Science+student+(6%2F8);%F0%9F%9A%80+Studying+Python%2C+Data+Science+and+AI;%F0%9F%94%AD+Interested+in+Astrophysics;%F0%9F%96%A8%EF%B8%8F+Working+with+3D+printing" alt="Typing SVG" />
+</a>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=drenato-v&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/drenato-v?style=for-the-badge&logo=github&label=Followers&labelColor=1a1b27&color=bb9af7" alt="Followers" />
+<img src="https://img.shields.io/github/stars/drenato-v?style=for-the-badge&logo=github&label=Stars&labelColor=1a1b27&color=e0af68" alt="Stars" />
 
 </div>
 
-🎓 Graduating in Computer Science(6/8)
+<br/>
 
-🚀 Studying Python, Data Science and AI 
+## 🧑‍🚀 About me
 
-🔭 Interested in Astrophysics
+```python
+class DiegoRenato:
+    def __init__(self):
+        self.education  = "Computer Science (6/8)"
+        self.studying   = ["Python", "Data Science", "Artificial Intelligence"]
+        self.languages  = ["Python", "C"]
+        self.interests  = ["Astrophysics", "3D Printing"]
 
-🖨️ Working with 3D printing
+    def mission(self):
+        return "Turning data into insight — and curiosity into code."
+```
 
----
+<br/>
 
-## Technology
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+<table>
+  <tr>
+    <td align="center" width="200"><b>Languages</b></td>
+    <td align="center" width="260"><b>Frameworks &amp; Libraries</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=py,c&theme=dark" alt="Languages" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch,django,fastapi&theme=dark" alt="Frameworks" /></td>
+  </tr>
+</table>
 
-[![Languages](https://skillicons.dev/icons?i=py,c&theme=dark)](https://skillicons.dev)
-
-**Frameworks & Libraries**
-
-[![Frameworks](https://skillicons.dev/icons?i=pytorch,django,fastapi&theme=dark)](https://skillicons.dev)
-
-**Tools & Cloud**
-
-[![Tools](https://skillicons.dev/icons?i=pycharm,vscode,git,github,docker,redis,aws,blender&theme=dark)](https://skillicons.dev)
+<table>
+  <tr>
+    <td align="center" width="470"><b>Tools &amp; Cloud</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pycharm,vscode,git,github,docker,redis,aws,blender&perline=8&theme=dark" alt="Tools" /></td>
+  </tr>
+</table>
 
 </div>
 
----
+<br/>
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=drenato-v&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drenato-v&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=drenato-v&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drenato-v&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+
+<br/>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=drenato-v&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+
+<br/>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=drenato-v&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph" />
 
 </div>
 
----
+<br/>
 
-## Commits
+## 🚀 Projects
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=drenato-v&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<a href="https://github.com/drenato-v/Analise-de-Emissoes-de-Gases-no-Brasil"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=Analise-de-Emissoes-de-Gases-no-Brasil&theme=tokyonight&hide_border=true" alt="Analysis of gas emissions" /></a>
+<a href="https://github.com/drenato-v/Automato-Finito-Deterministico"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=Automato-Finito-Deterministico&theme=tokyonight&hide_border=true" alt="Deterministic finite automaton" /></a>
+<a href="https://github.com/drenato-v/Pesquisa-Binaria"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=Pesquisa-Binaria&theme=tokyonight&hide_border=true" alt="Binary search" /></a>
+<a href="https://github.com/drenato-v/Gerador-senha"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=Gerador-senha&theme=tokyonight&hide_border=true" alt="Password generator" /></a>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=drenato-v&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
+<br/>
+
+<div align="center">
+
+| | Also building |
+|:-:|:--|
+| 🤖 | **Chatbot integrated with AI and WhatsApp** |
+| 🏢 | **Integrated management software** |
+
+</div>
+
+<br/>
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drenato-v/drenato-v/output/github-snake-dark.svg" />
@@ -65,23 +115,4 @@
 
 </div>
 
----
-
-## Projects
-
-- Chatbot integrated with AI and WhatsApp
-- Analysis of gas emissions
-- integrated management software
-- Binary search
-- Deterministic finite automaton
-
-<div align="center">
-
-<a href="https://github.com/drenato-v/Analise-de-Emissoes-de-Gases-no-Brasil"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=Analise-de-Emissoes-de-Gases-no-Brasil&theme=tokyonight&hide_border=true" alt="Analise-de-Emissoes-de-Gases-no-Brasil" /></a>
-<a href="https://github.com/drenato-v/Automato-Finito-Deterministico"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=Automato-Finito-Deterministico&theme=tokyonight&hide_border=true" alt="Automato-Finito-Deterministico" /></a>
-<a href="https://github.com/drenato-v/Pesquisa-Binaria"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=Pesquisa-Binaria&theme=tokyonight&hide_border=true" alt="Pesquisa-Binaria" /></a>
-<a href="https://github.com/drenato-v/Gerador-senha"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=Gerador-senha&theme=tokyonight&hide_border=true" alt="Gerador-senha" /></a>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:1a1b27&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=c0caf5&fontAlignY=70" alt="Footer" />

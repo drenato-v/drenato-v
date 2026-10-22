@@ -1,0 +1,36 @@
+# Gera o gráfico 3D das contribuições e salva os SVGs na pasta profile-3d-contrib/
+name: Generate 3D contribution graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # a cada 12 horas
+  workflow_dispatch:          # permite rodar manualmente pela aba Actions
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/3d-contrib.yml
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "Atualiza gráfico 3D de contribuições"; then
+            git push
+          fi
