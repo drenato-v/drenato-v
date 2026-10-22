@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=drenato-v&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://hits.sh/github.com/drenato-v.svg?style=for-the-badge&label=Profile%20Views&color=7aa2f7&labelColor=1a1b27" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/drenato-v?style=for-the-badge&logo=github&label=Followers&labelColor=1a1b27&color=bb9af7" alt="Followers" />
 <img src="https://img.shields.io/github/stars/drenato-v?style=for-the-badge&logo=github&label=Stars&labelColor=1a1b27&color=e0af68" alt="Stars" />
 
