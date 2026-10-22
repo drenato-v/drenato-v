@@ -6,8 +6,6 @@
 
 </div>
 
-## Hello, my name is Diego Renato. 👋
-
 🎓 Graduating in Computer Science(6/8)
 
 🚀 Studying Python, Data Science and AI 
