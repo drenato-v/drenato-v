@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Diego Renato — Computer Science Student · Python · Data Science · AI" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+  <img src="./assets/header.svg" width="100%" alt="Diego Renato — Computer Science Student · Python · Data Science · AI" />
+</picture>
 
 <a href="https://github.com/drenato-v">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=%F0%9F%8E%93+Computer+Science+student+(6%2F8);%F0%9F%9A%80+Studying+Python%2C+Data+Science+and+AI;%F0%9F%94%AD+Interested+in+Astrophysics;%F0%9F%96%A8%EF%B8%8F+Working+with+3D+printing" alt="Typing SVG" />
@@ -11,6 +15,13 @@
 <img src="https://komarev.com/ghpvc/?username=drenato-v&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/drenato-v?style=for-the-badge&logo=github&label=Followers&labelColor=1a1b27&color=bb9af7" alt="Followers" />
 <img src="https://img.shields.io/github/stars/drenato-v?style=for-the-badge&logo=github&label=Stars&labelColor=1a1b27&color=e0af68" alt="Stars" />
+
+<br/>
+
+<a href="mailto:dev.drenato@gmail.com"><img src="https://img.shields.io/badge/Email-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/diego-renato"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/axion.brazil"><img src="https://img.shields.io/badge/Instagram-bb9af7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://axion-brasil.com"><img src="https://img.shields.io/badge/Axion%20Brasil-e0af68?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 
 </div>
 
@@ -73,7 +84,11 @@ class DiegoRenato:
 
 <br/>
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drenato-v/drenato-v/output/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drenato-v/drenato-v/output/profile-season-animate.svg" />
+  <img src="https://raw.githubusercontent.com/drenato-v/drenato-v/output/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+</picture>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=drenato-v&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph" />
 
@@ -100,6 +115,21 @@ class DiegoRenato:
 |:-:|:--|
 | 🤖 | **Chatbot integrated with AI and WhatsApp** |
 | 🏢 | **Integrated management software** |
+
+</div>
+
+<br/>
+
+## 📫 Let's connect
+
+<div align="center">
+
+| | |
+|:-:|:--|
+| ✉️ | **Email:** [dev.drenato@gmail.com](mailto:dev.drenato@gmail.com) |
+| 💼 | **LinkedIn:** [in/diego-renato](https://www.linkedin.com/in/diego-renato) |
+| 📸 | **Instagram:** [@axion.brazil](https://www.instagram.com/axion.brazil) |
+| 🌐 | **Website:** [axion-brasil.com](https://axion-brasil.com) |
 
 </div>
 
