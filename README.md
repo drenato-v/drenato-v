@@ -7,7 +7,7 @@
 </picture>
 
 <a href="https://github.com/drenato-v">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=%F0%9F%8E%93+Computer+Science+student+(6%2F8);%F0%9F%9A%80+Studying+Python%2C+Data+Science+and+AI;%F0%9F%94%AD+Interested+in+Astrophysics;%F0%9F%96%A8%EF%B8%8F+Working+with+3D+printing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Computer+Science+student+(6%2F8);Studying+Python+Data+Science+and+AI;Interested+in+Astrophysics;Working+with+3D+printing" alt="Typing SVG" />
 </a>
 
 <br/>
