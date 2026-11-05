@@ -76,7 +76,7 @@ class DiegoRenato:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=drenato-v&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=drenato-v&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drenato-v&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
 
 <br/>
@@ -91,11 +91,11 @@ class DiegoRenato:
 
 <div align="center">
 
-<a href="https://github.com/drenato-v/orbitron"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=simulador-orbital&theme=tokyonight&hide_border=true" alt="Orbital simulator" /></a>
+<a href="https://github.com/drenato-v/orbitron"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=orbitron&theme=tokyonight&hide_border=true" alt="Orbitron — orbital simulator" /></a>
 
 <a href="https://github.com/drenato-v/Analise-de-Emissoes-de-Gases-no-Brasil"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=Analise-de-Emissoes-de-Gases-no-Brasil&theme=tokyonight&hide_border=true" alt="Analysis of gas emissions" /></a>
 
-<a href="https://github.com/drenato-v/BidUp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=Automato-Finito-Deterministico&theme=tokyonight&hide_border=true" alt="Deterministic finite automaton" /></a>
+<a href="https://github.com/drenato-v/BidUp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=BidUp&theme=tokyonight&hide_border=true" alt="BidUp" /></a>
 
 <a href="https://github.com/drenato-v/algoritmo-de-ordenacao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=algoritmo-de-ordenacao&theme=tokyonight&hide_border=true" alt="Sorting algorithms" /></a>
 
@@ -107,7 +107,7 @@ class DiegoRenato:
 
 <div align="center">
 
-| Contato | Valores |
+| Contact | Link |
 |:--|:--|
 | **Email** | [dev.drenato@gmail.com](mailto:dev.drenato@gmail.com) |
 | **LinkedIn** | [Diego Renato](https://www.linkedin.com/in/diego-renato-513a50254) |
