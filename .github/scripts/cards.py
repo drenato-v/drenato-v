@@ -130,12 +130,17 @@ def stats_card(user):
 
 
 def langs_card(user, count=6):
-    totals, colors = {}, {}
+    # Peso = raiz(bytes totais) x raiz(nº de repositórios que usam a linguagem).
+    # Só por bytes, um único projeto com um arquivo HTML ou notebook enorme
+    # dominaria o gráfico; assim conta também em quantos projetos ela aparece.
+    sizes, repos, colors = {}, {}, {}
     for repo in user["repositories"]["nodes"]:
         for edge in repo["languages"]["edges"]:
             lang = edge["node"]["name"]
-            totals[lang] = totals.get(lang, 0) + edge["size"]
+            sizes[lang] = sizes.get(lang, 0) + edge["size"]
+            repos[lang] = repos.get(lang, 0) + 1
             colors[lang] = edge["node"]["color"] or MUTED
+    totals = {lang: (sizes[lang] ** 0.5) * (repos[lang] ** 0.5) for lang in sizes}
     top = sorted(totals.items(), key=lambda kv: kv[1], reverse=True)[:count]
     total = sum(size for _, size in top) or 1
 
