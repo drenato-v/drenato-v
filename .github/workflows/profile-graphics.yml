@@ -18,6 +18,21 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Cards de estatísticas, linguagens e projetos, gerados aqui mesmo
+      # (o servidor público github-readme-stats vive estourando o limite da API)
+      - name: Generate stats cards
+        run: |
+          python3 .github/scripts/cards.py "${{ github.repository_owner }}" dist \
+            orbitron \
+            Analise-de-Emissoes-de-Gases-no-Brasil \
+            BidUp \
+            algoritmo-de-ordenacao
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:

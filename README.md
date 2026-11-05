@@ -76,8 +76,8 @@ class DiegoRenato:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=drenato-v&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drenato-v&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+<img height="165" src="https://raw.githubusercontent.com/drenato-v/drenato-v/output/stats.svg" alt="GitHub stats" />
+<img height="165" src="https://raw.githubusercontent.com/drenato-v/drenato-v/output/top-langs.svg" alt="Top languages" />
 
 <br/>
 
@@ -91,13 +91,13 @@ class DiegoRenato:
 
 <div align="center">
 
-<a href="https://github.com/drenato-v/orbitron"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=orbitron&theme=tokyonight&hide_border=true" alt="Orbitron — orbital simulator" /></a>
+<a href="https://github.com/drenato-v/orbitron"><img src="https://raw.githubusercontent.com/drenato-v/drenato-v/output/pin-orbitron.svg" alt="Orbitron — orbital simulator" /></a>
 
-<a href="https://github.com/drenato-v/Analise-de-Emissoes-de-Gases-no-Brasil"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=Analise-de-Emissoes-de-Gases-no-Brasil&theme=tokyonight&hide_border=true" alt="Analysis of gas emissions" /></a>
+<a href="https://github.com/drenato-v/Analise-de-Emissoes-de-Gases-no-Brasil"><img src="https://raw.githubusercontent.com/drenato-v/drenato-v/output/pin-Analise-de-Emissoes-de-Gases-no-Brasil.svg" alt="Analysis of gas emissions" /></a>
 
-<a href="https://github.com/drenato-v/BidUp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=BidUp&theme=tokyonight&hide_border=true" alt="BidUp" /></a>
+<a href="https://github.com/drenato-v/BidUp"><img src="https://raw.githubusercontent.com/drenato-v/drenato-v/output/pin-BidUp.svg" alt="BidUp" /></a>
 
-<a href="https://github.com/drenato-v/algoritmo-de-ordenacao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=algoritmo-de-ordenacao&theme=tokyonight&hide_border=true" alt="Sorting algorithms" /></a>
+<a href="https://github.com/drenato-v/algoritmo-de-ordenacao"><img src="https://raw.githubusercontent.com/drenato-v/drenato-v/output/pin-algoritmo-de-ordenacao.svg" alt="Sorting algorithms" /></a>
 
 </div>
 
