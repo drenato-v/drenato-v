@@ -91,9 +91,12 @@ class DiegoRenato:
 
 <div align="center">
 
-<a href="https://github.com/drenato-v/simulador-orbital"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=simulador-orbital&theme=tokyonight&hide_border=true" alt="Orbital simulator" /></a>
+<a href="https://github.com/drenato-v/orbitron"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=simulador-orbital&theme=tokyonight&hide_border=true" alt="Orbital simulator" /></a>
+
 <a href="https://github.com/drenato-v/Analise-de-Emissoes-de-Gases-no-Brasil"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=Analise-de-Emissoes-de-Gases-no-Brasil&theme=tokyonight&hide_border=true" alt="Analysis of gas emissions" /></a>
-<a href="https://github.com/drenato-v/Automato-Finito-Deterministico"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=Automato-Finito-Deterministico&theme=tokyonight&hide_border=true" alt="Deterministic finite automaton" /></a>
+
+<a href="https://github.com/drenato-v/BidUp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=Automato-Finito-Deterministico&theme=tokyonight&hide_border=true" alt="Deterministic finite automaton" /></a>
+
 <a href="https://github.com/drenato-v/algoritmo-de-ordenacao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=drenato-v&repo=algoritmo-de-ordenacao&theme=tokyonight&hide_border=true" alt="Sorting algorithms" /></a>
 
 </div>
@@ -127,3 +130,4 @@ class DiegoRenato:
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:1a1b27&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=c0caf5&fontAlignY=70" alt="Footer" />
+
